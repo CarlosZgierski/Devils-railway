@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - object
+  - interaction
+  - Feet
+  - Hand
+  - Ladder
+  - Body
+  - Cipo
+  - Visao
+  - Level01_Level02
+  - Level02_Level03
+  - Madeira
+  - Ferramenta
+  - Chave
+  - Door
+  - AreaEscada
+  - Telegrama
+  - SoundZone
+  - Wood Floor
+  - Concrete Floor
+  - Metal Floor
+  - Player Chest
+  - Telegrafo
+  - Water Floor
+  - Endgame
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - PlayerParts
+  - PlayerBody
+  - Walls
+  - Stairs
+  - VisionRange
+  - Doors
+  - Terrain
+  - guardachuva
+  - SoundZone
+  - FloorSounds
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

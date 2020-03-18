@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: db21e8d5e3089394c8d169f78ff932e2
+timeCreated: 1528038842
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCylinder72
+    100004: polySurface2008
+    100006: polySurface2009
+    100008: polySurface2009 1
+    100010: polySurface2010
+    100012: polySurface2011
+    100014: polySurface2012
+    100016: polySurface2013
+    100018: polySurface2014
+    100020: polySurface2015
+    100022: polySurface2016
+    100024: polySurface2017
+    100026: polySurface2018
+    100028: polySurface2019
+    100030: polySurface2020
+    100032: polySurface2021
+    100034: polySurface2022
+    100036: polySurface2023
+    100038: polySurface2024
+    100040: transform262
+    100042: transform263
+    100044: transform264
+    100046: transform265
+    100048: transform266
+    100050: transform267
+    100052: transform268
+    100054: transform269
+    100056: transform270
+    100058: transform271
+    100060: transform272
+    100062: transform273
+    100064: transform274
+    100066: transform275
+    100068: transform276
+    100070: transform277
+    100072: transform278
+    100074: transform279
+    400000: //RootNode
+    400002: pCylinder72
+    400004: polySurface2008
+    400006: polySurface2009
+    400008: polySurface2009 1
+    400010: polySurface2010
+    400012: polySurface2011
+    400014: polySurface2012
+    400016: polySurface2013
+    400018: polySurface2014
+    400020: polySurface2015
+    400022: polySurface2016
+    400024: polySurface2017
+    400026: polySurface2018
+    400028: polySurface2019
+    400030: polySurface2020
+    400032: polySurface2021
+    400034: polySurface2022
+    400036: polySurface2023
+    400038: polySurface2024
+    400040: transform262
+    400042: transform263
+    400044: transform264
+    400046: transform265
+    400048: transform266
+    400050: transform267
+    400052: transform268
+    400054: transform269
+    400056: transform270
+    400058: transform271
+    400060: transform272
+    400062: transform273
+    400064: transform274
+    400066: transform275
+    400068: transform276
+    400070: transform277
+    400072: transform278
+    400074: transform279
+    2100000: lambert40
+    2300000: polySurface2024
+    3300000: polySurface2024
+    4300000: polySurface2024
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert40
+    second: {fileID: 2100000, guid: 38477bbe29e3eeb4ba3601127e1f4933, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
